@@ -1,0 +1,1 @@
+This repository demonstrates a common pitfall in PHP: the loose nature of type hinting. While type declarations help with code readability and static analysis, they don't throw exceptions if the wrong type is passed during runtime.  The bug.php file showcases this, while bugSolution.php presents a way to mitigate the issue.
